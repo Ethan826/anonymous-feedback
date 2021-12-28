@@ -1,0 +1,15 @@
+{
+  "name": "anonymous-feedback",
+  "packageManager": "yarn@3.1.1",
+  "dependencies": {
+    "@koa/router": "^10.1.1",
+    "fp-ts": "^2.11.5",
+    "handlebars": "^4.7.7",
+    "io-ts": "^2.2.16",
+    "koa": "^2.13.4"
+  },
+  "devDependencies": {
+    "@types/koa__router": "^8.0.11",
+    "typescript": "^4.5.4"
+  }
+}
